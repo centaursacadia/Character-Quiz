@@ -1,0 +1,45 @@
+.bnb{
+    background-color:#122A97;   
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    color:#FBD818;
+    letter-spacing:6px;
+    font-size:20px;
+}
+.number{
+    background-color:#122A97;   
+    font-family: 'Shadows Into Light', cursive;
+        margin:20px;
+        padding:20px;
+       text-align: center;
+       font-size:20px;
+       color:#FBD818;
+}
+.name{
+    background-color:#122A97;   
+    font-family: 'Shadows Into Light', cursive;
+    margin:10px;
+    padding:20px;
+    text-align: center;   
+    font-size:20px;
+    color:#FBD818;
+}
+.button{
+    padding:20px;
+    
+    margin:10px;
+    text-align:center;
+    color:#FBD818;
+}
+.all{
+    background-color:#FBD818;   
+}
+.char{
+ background-color:#122A97;   
+    font-family: 'Shadows Into Light', cursive;
+    margin:10px;
+    padding:20px;
+    text-align: center;   
+    font-size:20px;  
+    color:#FBD818;
+}
